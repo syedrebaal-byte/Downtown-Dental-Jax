@@ -1,0 +1,8 @@
+{
+  "name": "Downtown Dental Jax | World-Class Dental Care in Jacksonville, FL",
+  "description": "Premier restorative, cosmetic, and general dental practice in Downtown Jacksonville. Personalized, gentle care led by Dr. Andrew L. Witten, Dr. Eric Portalatin, and Dr. Maria Al Chammas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
